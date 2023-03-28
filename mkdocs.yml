@@ -1,0 +1,8 @@
+site_name: "backstageinsurezone"
+site_description: "backstageinsurezone"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

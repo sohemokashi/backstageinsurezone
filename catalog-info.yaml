@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "backstageinsurezone"
+  description: "backstageinsurezone"
+  annotations:
+    github.com/project-slug: sohemokashi/backstageinsurezone
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "guests"
